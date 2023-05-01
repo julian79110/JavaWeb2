@@ -6,13 +6,13 @@
 
 en este repositorio se encontrara un registro y un login con una conexion base a datos. el registro se encontrara en formato .jsp en el cual se encuentra con un formulario para un registro para ambos se usaron flex-box y bootstrap 5.
 
-En el register se utilizo la estructura de html 5 y se dividio en las etiquetas semanticas header, nav, section, footer. Comenzamos con el lenguaje predeterminado de la pagina en este caso español, luego tenemos los metadatos para que nos permita los caracteres especiales, tildes y ñ. 
+En el register se utilizo la estructura de html 5 y se dividio en las etiquetas semanticas header, nav, section, footer. Comenzamos con el lenguaje predeterminado de la pagina en este caso español, en el hedar tenemos los metadatos para que nos permita los caracteres especiales, tildes y ñ. 
 
 luego el metadato para el autor y la descripcion, luego la etiqueta meta para las palabras clave a la hora de la busqueda y el viewport para que sea lo mas basico en responsive. Procedemos con el titulo e incluimos bootstrap 5 y una hoja de estilo con la etiqueta link. 
 
 Tenemos los label del registro y el input, los input cuentan con los atributos required, pattern, name. Su respectivo boton para registrar en el footer tenemos los derechos reservados y un metodo de java que nos permite tener el año actualizado. 
 
-En el login se encontrara una imagen como logo y los campos para poder iniciar sesion, y un boton para ingresar. 
+En el login se encontrara con la estrutura basica de html 5 y se incluye bootstrap 5, en el header tenemos los metadatos para el autor, la descripcion, palabras clave, y el viewport. despues tenemos el titulo y en link de css de bootstrap 5 y una conexion con hojas de estilo. El body esta dividido en etiquetas semanticas en este caso yo use header, nav, section, footer. en el section se encuentra el formulario para el login se encontrara una imagen que use como logo, y luego los inputs y labels para el inicio de sesion y su boton para ingresar. En el footer estan los derechos reservados y un metodo para que el año se actualice automaticamente. 
 
 En el archivo pom se le hizo modificaciones para incluir la conexion de base de datos en mysql y agregar la dependencia para el pool de conexiones. 
 
