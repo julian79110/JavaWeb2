@@ -4,7 +4,13 @@
 
 # Descripción 
 
-en este repositorio se encontrara un registro y un login con una conexion base a datos. el registro se encontrara en formato .jsp en el cual se encuentra con un formulario para un registro para ambos se usaron flex-box.
+en este repositorio se encontrara un registro y un login con una conexion base a datos. el registro se encontrara en formato .jsp en el cual se encuentra con un formulario para un registro para ambos se usaron flex-box y bootstrap 5.
+
+En el register se utilizo la estructura de html 5, comenzamos con el lenguaje predeterminado de la pagina en este caso español, luego tenemos los metadatos para que nos permita los caracteres especiales, tildes y ñ. 
+
+luego el metadato para el autor y la descripcion, luego la etiqueta meta para las palabras clave a la hora de la busqueda y el viewport para que sea lo mas basico en responsive. 
+
+procedemos con 
 
 En el login se encontrara una imagen como logo y los campos para poder iniciar sesion, y un boton para ingresar. 
 
@@ -14,9 +20,9 @@ se crearon unos sub-paquetes para usar el patron de diseño MVC(model, view, con
 
 # Como utilizar este proyecto?
 
-- primero se debe descargar la carpeta "JavaAvanzado"
-- descomprimir la carpeta
-- abrir el entorno de desarollo intellij idea o el de tu preferencia. 
-- darle en "open"
-- buscar donde se descomprimio el archivo
-- ejecutar el index
+1. primero se debe descargar la carpeta "JavaAvanzado"
+2. descomprimir la carpeta
+3. abrir el entorno de desarollo intellij idea o el de tu preferencia. 
+4. darle en "open"
+5. buscar donde se descomprimio el archivo
+6. ejecutar el index
